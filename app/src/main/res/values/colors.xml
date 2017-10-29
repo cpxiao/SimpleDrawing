@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--<color name="sda">#00ffffff</color>-->
+
+    <string-array name="colorList">
+        <item>#1d1b1c</item>
+        <item>#FF4081</item>
+        <item>#ffaf40</item>
+        <item>#ffd640</item>
+        <item>#76ff40</item>
+        <item>#40ffe2</item>
+        <item>#4040ff</item>
+        <item>#a040ff</item>
+        <item>#ff40fc</item>
+    </string-array>
+</resources>
